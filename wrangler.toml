@@ -1,0 +1,8 @@
+name = "tourist-croatia-coming-soon"
+main = "src/index.js"
+compatibility_date = "2026-06-10"
+workers_dev = true
+
+# Zet workers_dev op false en voeg later je eigen route toe, bijvoorbeeld:
+# workers_dev = false
+# route = { pattern = "touristcroatia.com/*", zone_name = "touristcroatia.com" }
